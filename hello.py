@@ -1,0 +1,7 @@
+print("My name is Gustavo.")
+print("I am a civil engineer.")
+print("I am learning Python.")
+print("I hope I don't have to do this every single time.")
+print("I need to practive my syntaxis and my logic.")
+print("I am goint to become a great programmer.")
+print("I am goint to use this knowledge to make the world a better place.")
